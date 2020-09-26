@@ -9,6 +9,7 @@ public class HomeWork03_02 {
 		
 		int guessNum = (int)(Math.random()*100);
 		
+		int guessNum = (int)(Math.random()*100);
 		while(true){
 			int inputNum = sc.nextInt();
 			if(inputNum>guessNum) {
