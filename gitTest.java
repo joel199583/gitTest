@@ -7,7 +7,7 @@ public class HomeWork03_02 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		int guessNum = (int)(Math.random()*100);
+		double guessNum = (int)(Math.random()*100);
 
 		int guessNum2 = (int)(Math.random()*100);
 		
