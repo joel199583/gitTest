@@ -8,6 +8,8 @@ public class HomeWork03_02 {
 		Scanner sc = new Scanner(System.in);
 		
 		int guessNum = (int)(Math.random()*100);
+
+		int guessNum2 = (int)(Math.random()*100);
 		
 		int guessNum = (int)(Math.random()*100);
 		while(true){
